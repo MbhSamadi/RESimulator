@@ -1,0 +1,4 @@
+pre,transition,vio,final,tind,preind,vioind,init
+"(q4,instanceD-b2-instanceB,q5)","(q5,instanceC-f2-instanceF,q3)",[],True,True,True,[],True
+"(q0,instanceE-d1-instanceD,q6)","(q6,instanceC-f2-instanceF,q7)",[],False,True,False,[],True
+,"(q0,instanceC-f2-instanceF,q10)",[],False,False,,,False

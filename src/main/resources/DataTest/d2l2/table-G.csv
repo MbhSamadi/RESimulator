@@ -1,0 +1,10 @@
+pre,transition,vio,final,tind,preind,vioind,init
+"(q11,instanceE-a0-instanceA,q12)","(q12,instanceG-b1-instanceB,q13)",[],False,False,False,[],False
+"(q9,instanceE-c4-instanceC,q10)","(q10,instanceG-e4-instanceE,q8)",[],False,True,False,[],False
+"(q6,instanceE-a5-instanceA,q7)","(q7,instanceG-e2-instanceE,q8)",[],False,True,False,[],False
+,"(q0,instanceG-e2-instanceE,q11)",[],False,False,,,False
+"(q3,instanceF-g2-instanceG,q4)","(q4,instanceG-e2-instanceE,q5)",[],True,True,True,[],False
+"(q13,instanceF-g2-instanceG,q14)","(q14,instanceG-e4-instanceE,q5)",[],True,True,True,[],False
+"(q0,instanceF-g2-instanceG,q1)","(q1,instanceG-b2-instanceB,q2)",[],False,False,False,[],False
+"(q0,instanceF-g2-instanceG,q1)","(q1,instanceG-c2-instanceC,q6)",[],False,False,False,[],False
+"(q0,instanceF-g2-instanceG,q1)","(q1,instanceG-b4-instanceB,q9)",[],False,False,False,[],False
